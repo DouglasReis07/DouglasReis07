@@ -55,9 +55,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DouglasReis07}/count.svg" /></p> 
-<br></div>
+  <p><b>Visitor Count</b></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DouglasReis07&left_text=Visitors&right_text=000000&right_color=00bfbf&style=flat-square" alt="Visitor Count" />
+</div>
+
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
