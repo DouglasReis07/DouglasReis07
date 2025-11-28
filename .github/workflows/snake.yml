@@ -11,13 +11,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Criar pasta Douglas no dist
+        run: mkdir -p dist/Douglas
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: DouglasReis07
           outputs: |
-            dist/snake.svg
+            dist/Douglas/snake.svg
 
       - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
