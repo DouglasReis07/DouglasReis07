@@ -5,18 +5,18 @@
 ---
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DouglasReis07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&t=1"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&t=1"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DouglasReis07&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglasReis07&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true&t=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DouglasReis07&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DouglasReis07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&t=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DouglasReis07&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -39,33 +39,9 @@
 
 ---
 
-### 🛠 Tools
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows)&nbsp;
-![Office](https://img.shields.io/badge/-Microsoft_Office-0D1117?style=for-the-badge&logo=microsoft-office)&nbsp;
-
----
-
-### 📚 Other Knowledge
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
-
----
-
-### 📘 Studying Now
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-
----
-
 ## 🐍 Snake Animation
 <p align="center">
-  <img src="./output/Douglas/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
