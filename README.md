@@ -11,21 +11,14 @@
 
 ---
 
-<style>
-  .social-icon:hover {
-    transform: scale(1.15);
-    transition: 0.2s ease-in-out;
-  }
-</style>
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-reis-9961bb253/" target="_blank">
-    <img class="social-icon" height="42" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
+    <img class="social-icon" height="18" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:douglasreis863@gmail.com">
-    <img class="social-icon" height="42" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
+    <img class="social-icon" height="18" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </p>
 
