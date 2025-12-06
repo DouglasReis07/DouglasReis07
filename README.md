@@ -14,11 +14,11 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/douglas-reis-9961bb253/" target="_blank">
-    <img height="18" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn"/>
+    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:douglasreis863@gmail.com">
-    <img height="18" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail"/>
+    <img height="45" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </p>
 
