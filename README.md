@@ -44,13 +44,6 @@
 
 ---
 
-## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DouglasReis07&theme=dracula&no-bg=true&column=4&margin-w=10&margin-h=10"/>
-</div>
-
----
-
 ## 💻 Main Skills
 
 <p align="center">
