@@ -29,9 +29,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=DouglasReis07&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DouglasReis07&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 
-<img width="41%" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+
 
 </div>
 
