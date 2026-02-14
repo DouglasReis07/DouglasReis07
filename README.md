@@ -29,10 +29,6 @@ Mentalidade hacker: aprender, testar, dominar
 </p>
 
 ---
-
-# ⚡ Tech Core
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,github,vscode,mysql"/>
 </p># 💻 Tech Core
 
 <p align="center">
