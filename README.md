@@ -71,9 +71,13 @@ Mentalidade hacker: aprender, testar, dominar
 ---
 
 # 🔥 Commit Streak
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasReis07&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true"/> </div>
+
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=DouglasReis07&theme=github-dark&hide_border=true&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc"/>
 </p>
+
 
 ---
 
