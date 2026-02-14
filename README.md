@@ -33,6 +33,21 @@ Mentalidade hacker: aprender, testar, dominar
 # ⚡ Tech Core
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,github,vscode,mysql"/>
+</p># 💻 Tech Core
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/GenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/Data%20Science-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/Automation-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ffcc"/>
+  <img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00ffcc"/>
 </p>
 
 ---
@@ -70,15 +85,17 @@ Mentalidade hacker: aprender, testar, dominar
 ---
 
 # 🧠 Mentalidade
+
+<p align="center">
+<pre>
 while(alive){
-learn();
-build();
-improve();
-repeat();
+    learn();
+    build();
+    improve();
+    repeat();
 }
-
-
----
+</pre>
+</p>
 
 # 👁️ Visitors
 <p align="center">
@@ -92,4 +109,5 @@ repeat();
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=00FFCC&center=true&vCenter=true&width=700&lines=Becoming+an+AI+Engineer;Python+is+my+weapon;Machine+Learning+is+my+path;This+GitHub+is+just+the+beginning+⚡"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:000000&heig
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:000000&height=140&section=footer"/>
+
