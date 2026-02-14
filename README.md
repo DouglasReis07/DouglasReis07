@@ -29,7 +29,7 @@ Mentalidade hacker: aprender, testar, dominar
 </p>
 
 ---
-</p># 💻 Tech Core
+# 💻 Tech Core
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffcc"/>
@@ -83,19 +83,6 @@ Mentalidade hacker: aprender, testar, dominar
 </p>
 
 ---
-
-# 🧠 Mentalidade
-
-<p align="center">
-<pre>
-while(alive){
-    learn();
-    build();
-    improve();
-    repeat();
-}
-</pre>
-</p>
 
 # 👁️ Visitors
 <p align="center">
