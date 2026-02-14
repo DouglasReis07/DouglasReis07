@@ -9,10 +9,9 @@
 ---
 
 # 🧠 Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas
-Focado em Python, Inteligência Artificial e automação
-Construindo projetos
-Mentalidade hacker! Aprender, testar, dominar
+Estudante de Análise e Desenvolvimento de Sistemas.
+Focado em Python, Inteligência Artificial e automação.
+Mentalidade hacker! Aprender, testar, dominar.
 
 
 ---
