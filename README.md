@@ -1,87 +1,83 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- TOPO ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:0d1117&height=200&section=header&text=Douglas%20Reis%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">👋 Hello! I'm <strong>Douglas Reis Silva</strong></h1>
-<h3 align="center">Full Stack Student • Python • React • Node.js</h3>
-
+<!-- DIGITANDO -->
 <p align="center">
-  🔭 Passionate about technology, data, automation and web development  
-  <br>🎓 Analysis and Systems Development student at Estácio  
-  <br>🚀 Always learning, always building
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00BFBF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Python+%7C+React+%7C+Node;Automation+%7C+APIs+%7C+Data;Building+Projects+Every+Day+🚀"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 👋 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em me tornar um **Full Stack Developer profissional**.
+
+- Focado em backend Python + Node
+- Criando projetos reais todos os dias
+- Estudando para entrar no mercado dev
+- Automação, APIs e sistemas web
+
+---
+
+# 🌎 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/douglas-reis-9961bb253/" target="_blank">
-    <img class="social-icon" height="20" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:douglasreis863@gmail.com">
-    <img class="social-icon" height="20" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/douglas-reis-9961bb253/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf"/>
+</a>
 
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DouglasReis07&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-
-
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasReis07&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true"/>
-</div>
-
----
-
-## 💻 Main Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00bfbf"/>
+<a href="mailto:douglasreis863@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfbf"/>
+</a>
 </p>
 
 ---
 
-## 🛠 Tools
+# 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/Office-0d1117?style=for-the-badge&logo=microsoft-office&logoColor=00bfbf"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DouglasReis07&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </p>
 
 ---
 
-## 📚 Currently Studying
+# 🧠 Streak (consistência de commits)
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=00bfbf"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00bfbf"/>
+<img src="https://streak-stats.demolab.com?user=DouglasReis07&theme=github-dark&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
 </p>
 
 ---
 
-## 🐍 Snake Animation
+# 🧰 Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,js,html,css,git,github,vscode,mysql"/>
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+# 🚀 Projetos em construção
+- Sistema de automação Python
+- API backend Node
+- Dashboard web React
+- Bots e scripts de automação
+
+---
+
+# 🐍 Snake de commits
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 👀 Contador de visitas
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=DouglasReis07&color=00bfbf&style=for-the-badge"/>
+</p>
+
+---
+
+<!-- FRASE FINAL -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=00BFBF&center=true&vCenter=true&width=600&lines=Construindo+meu+nome+na+programa%C3%A7%C3%A3o;Rumo+ao+Full+Stack+Profissional;Cada+commit+%C3%A9+um+passo+🔥"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfbf&height=120&section=footer"/>
