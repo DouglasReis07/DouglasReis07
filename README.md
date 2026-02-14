@@ -1,75 +1,95 @@
-<!-- TOPO ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:0d1117&height=200&section=header&text=Douglas%20Reis%20Silva&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<!-- HEADER ANIMADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00bfbf&height=220&section=header&text=Douglas%20Reis%20Silva&fontSize=45&fontColor=00bfbf&animation=fadeIn&fontAlignY=35"/>
 
-<!-- DIGITANDO -->
+<!-- DIGITAÇÃO HACKER -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00BFBF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;Python+%7C+React+%7C+Node;Automation+%7C+APIs+%7C+Data;Building+Projects+Every+Day+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00FFCC&center=true&vCenter=true&width=800&lines=Python+Developer;GenAI+Engineer;Machine+Learning+Builder;Automation+%7C+Data+%7C+AI;Building+the+future+with+code+🚀"/>
 </p>
 
 ---
 
-# 👋 Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em me tornar um **Back End Developer profissional**.
+# 🧠 Sobre mim
+Estudante de Análise e Desenvolvimento de Sistemas
+Focado em Python, Inteligência Artificial e automação
+Construindo projetos todos os dias
+Mentalidade hacker: aprender, testar, dominar
 
-- Focado em backend Python 
-- Criando projetos reais
-- Estudando para entrar no mercado dev
-- Automação, APIs e sistemas web
 
 ---
 
-# 🌎 Conecte-se comigo
+# 🌐 Contato
 <p align="center">
 <a href="https://www.linkedin.com/in/douglas-reis-9961bb253/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00bfbf"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ffcc"/>
 </a>
 
 <a href="mailto:douglasreis863@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00bfbf"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ffcc"/>
 </a>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Tech Core
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DouglasReis07&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,linux,git,github,vscode,mysql"/>
 </p>
 
 ---
 
-# 🧠 Streak (consistência de commits)
+# 🧬 Especialização atual
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=DouglasReis07&theme=github-dark&hide_border=true&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffcc"/>
+<img src="https://img.shields.io/badge/GenAI-000000?style=for-the-badge&logo=openai&logoColor=00ffcc"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=00ffcc"/>
+<img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=python&logoColor=00ffcc"/>
 </p>
 
 ---
 
-# 🧰 Tech Stack
+# 📊 GitHub Stats (servidor estável)
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,js,html,css,git,github,vscode,mysql"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DouglasReis07&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&bg_color=000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasReis07&layout=compact&theme=github_dark&hide_border=true&title_color=00ffcc&text_color=00ffcc&bg_color=000000"/>
 </p>
 
 ---
 
-# 🐍 Snake de commits
+# 🔥 Commit Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=DouglasReis07&theme=github-dark&hide_border=true&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc"/>
+</p>
+
+---
+
+# 🐍 Snake Hacker Animation
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 👀 Contador de visitas
+# 🧠 Mentalidade
+while(alive){
+learn();
+build();
+improve();
+repeat();
+}
+
+
+---
+
+# 👁️ Visitors
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DouglasReis07&color=00bfbf&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DouglasReis07&color=00ffcc&style=for-the-badge"/>
 </p>
 
 ---
 
 <!-- FRASE FINAL -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=00BFBF&center=true&vCenter=true&width=600&lines=Construindo+meu+nome+na+programa%C3%A7%C3%A3o;Rumo+ao+Back+End+Profissional;Cada+commit+%C3%A9+um+passo+🔥"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=4000&color=00FFCC&center=true&vCenter=true&width=700&lines=Becoming+an+AI+Engineer;Python+is+my+weapon;Machine+Learning+is+my+path;This+GitHub+is+just+the+beginning+⚡"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfbf,100:000000&heig
