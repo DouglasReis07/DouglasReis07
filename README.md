@@ -11,8 +11,8 @@
 # 🧠 Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas
 Focado em Python, Inteligência Artificial e automação
-Construindo projetos todos os dias
-Mentalidade hacker: aprender, testar, dominar
+Construindo projetos
+Mentalidade hacker! Aprender, testar, dominar
 
 
 ---
